@@ -1,8 +1,14 @@
 *.py[oc]
-*.swp
 *.log
 env/
 .DS_Store
 migrations/
 build/
 src/
+_build
+.*.sw[po]
+*.egg-info
+dist
+MANIFEST
+.buildinfo
+.tox
