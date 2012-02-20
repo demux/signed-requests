@@ -1,0 +1,8 @@
+*.py[oc]
+*.swp
+*.log
+env/
+.DS_Store
+migrations/
+build/
+src/
